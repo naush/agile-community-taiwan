@@ -1,0 +1,16 @@
+.apprentices {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.apprentices img {
+  width: 25%;
+}
+
+.photo {
+  height: 600px;
+  border: 0;
+  margin-top: 0;
+  background: transparent;
+}
